@@ -117,4 +117,26 @@ else :
 if keyword.iskeyword(s16):
     print(s16 + " is a keyword of python")
 else :
-    print(s16 + " is not  a keyword of python")        
+    print(s16 + " is not  a keyword of python") 
+
+""" output-------------
+for is a keyword of python
+geeksforgeeks is not  a keyword of python
+elif is a keyword of python
+elseif is not  a keyword of python
+nikhil is not  a keyword of python
+assert is a keyword of python
+shambhavi is not  a keyword of python
+True is a keyword of python
+False is a keyword of python
+akshat is not  a keyword of python
+akash is not  a keyword of python
+break is a keyword of python
+ashty is not  a keyword of python
+lambda is a keyword of python
+suman is not  a keyword of python
+try is a keyword of python
+vaishnavi is not  a keyword of python
+
+
+"""
